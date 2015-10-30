@@ -1,4 +1,4 @@
-Author: Безруков Дмитрий
+Author: Bezrukov Dmitrii
 Group: 321
 OS: Ubintu Lucid
 Compiler: gcc-4.8
