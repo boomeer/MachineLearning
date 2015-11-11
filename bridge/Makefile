@@ -1,3 +1,4 @@
+#make
 # This makefile is bridge between
 # a library stuff and stuff that the library exports to world
 # and, particularly, exports into our project.
