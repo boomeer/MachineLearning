@@ -4,6 +4,7 @@
 # proceed, so following inclusions will be made only after touch
 # target.
 
+# Dmitrii Bezrukov
 # Include dependency information (force to build if missing).
 ifneq ($(MAKECMDGOALS), clean)
 -include $(call src_to_dep, $(CXXFILES))
